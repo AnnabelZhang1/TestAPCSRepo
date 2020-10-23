@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Random;
-class Demo {
+public class Demo {
   public static void printLoop(int n)
   {
     for(int i = 1; i <= n; i++)
